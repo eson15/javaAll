@@ -36,9 +36,9 @@
 
 ## 🏆 Java 多线程
 
-* Java 创建线程的方式
+* [01. Java 创建线程的方式](https://github.com/eson15/javaAll/blob/master/JavaThread/01.%20Java%20%E5%88%9B%E5%BB%BA%E7%BA%BF%E7%A8%8B%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B9%E5%BC%8F.md)
 
-* Java 线程状态
+* [02. Java 线程状态有哪些状态，彼此之间如何切换](https://github.com/eson15/javaAll/blob/master/JavaThread/02.%20%E7%BA%BF%E7%A8%8B%E6%9C%89%E5%93%AA%E4%BA%9B%E7%8A%B6%E6%80%81%EF%BC%8C%E5%BD%BC%E6%AD%A4%E4%B9%8B%E9%97%B4%E5%A6%82%E4%BD%95%E5%88%87%E6%8D%A2.md)
 
 
 
