@@ -5,6 +5,10 @@ img{text-align: center; margin: 0 auto;}
 
 如果你来到这里，说明我们有缘份，这里是你们的“**Java开发宝典**”，我会将 Java 技术栈涉及到的知识点都给大家总结出来，进来的小伙伴点个 star，我会不断地完善，力求做到完美。
 
+<center class="half">
+    <img src="https://img.shields.io/badge/version-v1.0-green.svg"/><img src="https://img.shields.io/badge/version-v1.0-green.svg"/>
+</center>
+
 ![Java开发宝典](https://img-blog.csdnimg.cn/20201025232846465.png)
 
 ![版本号](https://img.shields.io/badge/version-v1.0-green.svg)![版本号](https://img.shields.io/badge/version-v1.0-green.svg)
