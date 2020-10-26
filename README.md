@@ -15,7 +15,6 @@
 <div align=center style="margin: 2px 0"><img src="https://img.shields.io/badge/version-v1.0-green.svg"/>  <img src="https://img.shields.io/badge/公众号-武哥聊编程-important.svg"/>  <img src="https://img.shields.io/badge/电子书-Java开发宝典-oranged.svg"/>  <img src="https://img.shields.io/badge/support-投稿-critical.svg"/></div>
 <br>
 <div align=center style="margin: 2px 0"><a href="https://blog.csdn.net/eson_15"><img src="https://img.shields.io/badge/关注-CSDN-blue.svg"/></a>   <a href="https://www.zhihu.com/people/ni-sheng-wu-59"><img src="https://img.shields.io/badge/关注-知乎-important.svg"/></a>   <a href="https://space.bilibili.com/696943969"><img src="https://img.shields.io/badge/关注-B站-oranged.svg"/></a></div>
-
 ##  ☕ Java 基础
 
 * [01. Java 数据类型](https://github.com/eson15/javaAll/blob/master/JavaBase/01.%20Java%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
@@ -32,7 +31,7 @@
 * Java 8 特性
 * Java 容器
 
-<a name="shuju">## 🌈 数据结构与算法</a>
+## <a name="shuju">🌈 数据结构与算法</a>
 
 * [01.  如果让你手写个栈和队列，你还会写吗？](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484011&idx=1&sn=32c75861c04125b0ce1385976cfc5967&chksm=9ac0bc49adb7355fd6d85669625cccfc4d929ae8d4cc6515ea2e0e33f102bbd6b26730376b47&scene=21#wechat_redirect)
 * [02.  你能自己手写个健壮的链表出来吗？](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484035&idx=1&sn=3f25a817c1ba1467080ca52bdccf04d5&chksm=9ac0bca1adb735b71303b9d61fe534f1858bfddb903a45090d1ecf3ef7ce39954e08678f0fc8&scene=21#wechat_redirect)
