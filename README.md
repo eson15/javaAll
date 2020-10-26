@@ -6,9 +6,11 @@
 >3. **联系作者**：如要进群或者单纯的想跟我一起吹吹牛逼，欢迎骚扰（请备注：github）☞：[联系我](#contMe)
 >4. **转载须知**：以下所有文章如非文首说明皆为我（武哥）的原创，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！⛽️
 
-<div align=center style="margin: 2px 0"><img alt="Java开发宝典" src="https://img-blog.csdnimg.cn/20201025232846465.png"/></div>
-<div align=center style="margin: 2px 0"><img src="https://img.shields.io/badge/version-v1.0-green.svg"/> <img src="https://img.shields.io/badge/公众号-武哥聊编程-important.svg"/> <img src="https://img.shields.io/badge/电子书-Java开发宝典-oranged.svg"/> <img src="https://img.shields.io/badge/support-投稿-critical.svg"/></div>
-<div align=center style="margin: 2px 0"><a href="https://blog.csdn.net/eson_15"><img src="https://img.shields.io/badge/关注-CSDN-blue.svg"/></a>  <a href="https://www.zhihu.com/people/ni-sheng-wu-59"><img src="https://img.shields.io/badge/关注-知乎-important.svg"/></a>  <a href="https://space.bilibili.com/696943969"><img src="https://img.shields.io/badge/关注-B站-oranged.svg"/></a></div>
+<div align=center style="margin: 2px 0"><img alt="Java开发宝典" src="https://img-blog.csdnimg.cn/20201025232846465.png"/><== 这是一个很好的广告位</div>
+<br>
+<div align=center style="margin: 2px 0"><img src="https://img.shields.io/badge/version-v1.0-green.svg"/>  <img src="https://img.shields.io/badge/公众号-武哥聊编程-important.svg"/>  <img src="https://img.shields.io/badge/电子书-Java开发宝典-oranged.svg"/>  <img src="https://img.shields.io/badge/support-投稿-critical.svg"/></div>
+<br>
+<div align=center style="margin: 2px 0"><a href="https://blog.csdn.net/eson_15"><img src="https://img.shields.io/badge/关注-CSDN-blue.svg"/></a>   <a href="https://www.zhihu.com/people/ni-sheng-wu-59"><img src="https://img.shields.io/badge/关注-知乎-important.svg"/></a>   <a href="https://space.bilibili.com/696943969"><img src="https://img.shields.io/badge/关注-B站-oranged.svg"/></a></div>
 
 ##  ☕ Java 基础
 
