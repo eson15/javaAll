@@ -1,4 +1,4 @@
-如果你来到这里，说明我们有缘份，这里是你们的“**Java开发宝典**”，包括内容有：Java 基础、Java 容器、Java 多线程、Java 虚拟机、Spring、SpringMVC、MyBatis、Spring Boot、Spring Cloud、 Spring Security、Dubbo、MySQL、Oracle、Redis、WebService、Lucence、Shiro、消息队列、数据结构和算法、设计模式、常用工具等等。我会将 Java 技术栈涉及到的知识点都给大家总结出来，不断地完善本仓库，力求做到完美。
+如果你来到这里，说明我们有缘份，这里是你们的“**Java开发宝典**”，包括内容有：Java 基础、Java 容器、Java 多线程、Java 虚拟机、Spring、SpringMVC、MyBatis、Spring Boot、Spring Cloud、 Spring Security、Dubbo、MySQL、Oracle、Redis、WebService、Lucence、Shiro、消息队列、[数据结构和算法](#shuju)、设计模式、常用工具等等。我会将 Java 技术栈涉及到的知识点都给大家总结出来，不断地完善本仓库，力求做到完美。
 
 拥抱开源，送人玫瑰，手留余香！进来的小伙伴**点个 star**支持下我，是对我最大的鼓励！
 
@@ -32,7 +32,7 @@
 * Java 8 特性
 * Java 容器
 
-## 🌈 数据结构与算法
+<a name="shuju">## 🌈 数据结构与算法</a>
 
 * [01.  如果让你手写个栈和队列，你还会写吗？](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484011&idx=1&sn=32c75861c04125b0ce1385976cfc5967&chksm=9ac0bc49adb7355fd6d85669625cccfc4d929ae8d4cc6515ea2e0e33f102bbd6b26730376b47&scene=21#wechat_redirect)
 * [02.  你能自己手写个健壮的链表出来吗？](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484035&idx=1&sn=3f25a817c1ba1467080ca52bdccf04d5&chksm=9ac0bca1adb735b71303b9d61fe534f1858bfddb903a45090d1ecf3ef7ce39954e08678f0fc8&scene=21#wechat_redirect)
@@ -52,6 +52,7 @@
 * [16.  图，这个玩意儿竟然还可以用来排序！](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484121&idx=1&sn=a9b24f56dcd6eb68ca6de3887d5e6cb9&chksm=9ac0bcfbadb735ed031b6c30dbd6bfc52811a0995bad4eb9f4127782d97c2b80983898381c4a&scene=21#wechat_redirect)
 * [17. 最常用的经典数据结构和算法汇总](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484132&idx=1&sn=8d2d97c04cf4bcc261da00db50d02978&chksm=9ac0bcc6adb735d01c3f7abc0b2df2a1ce97784a99b28c9a4f7db82121c03893542d111286d2&scene=21#wechat_redirect)
 * [18. 美团面试，我竟然输给了冒泡排序。。。](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484405&idx=1&sn=cb1746c407d8db9ec3c7ee32c6fbbf09&chksm=9ac0bdd7adb734c1d58d03ad2099e4732488f69be635eb7651f5c87c0054b6589b85f713f0f3&scene=21#wechat_redirect)
+* 
 
 ## 📚 Java 容器
 * Vector
