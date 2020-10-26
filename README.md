@@ -1,10 +1,10 @@
-如果你来到这里，说明我们有缘份，这里是你们的“**Java开发宝典**”，包括内容有：[Java 基础](#javaBase)、[数据结构和算法](#shuju)、[Java 容器](#javaCon)、[Java 多线程](#javaThread)、[Java 虚拟机](#jvm)、[Spring](#spring)、[SpringMVC](#springmvc)、[MyBatis](#mybatis)、[Spring Boot](#boot)、[Spring Cloud](#cloud)、[Spring Security](#security)、[Dubbo](#dubbo)、[MySQL](#mysql)、[Oracle](#oracle)、[Redis](#redis)、[WebService](#webservice)、[Lucence](#lucence)、[Shiro](#shiro)、[消息队列](#message)、[设计模式](#design)、[常用工具](#tools)等等。我会将 Java 技术栈涉及到的知识点都给大家总结出来，不断地完善本仓库，力求做到完美。
+如果你来到这里，说明离成功不远了，这里是你们的“**Java开发宝典**”，包括内容有：[Java 基础](#javaBase)、[数据结构和算法](#shuju)、[Java 容器](#javaCon)、[Java 多线程](#javaThread)、[Java 虚拟机](#jvm)、[Spring](#spring)、[SpringMVC](#springmvc)、[MyBatis](#mybatis)、[Spring Boot](#boot)、[Spring Cloud](#cloud)、[Spring Security](#security)、[Dubbo](#dubbo)、[MySQL](#mysql)、[Oracle](#oracle)、[Redis](#redis)、[WebService](#webservice)、[Lucence](#lucence)、[Shiro](#shiro)、[消息队列](#message)、[设计模式](#design)、[常用工具](#tools)等等。我会将 Java 技术栈涉及到的知识点都给大家总结出来，不断地完善本仓库，力求做到完美。
 
 拥抱开源，送人玫瑰，手留余香！进来的小伙伴**点个 star**支持下我，是对我最大的鼓励！
 
 ## 阅读须知
 >1. **作者介绍**：江湖人称“武哥”，技术不咋地，人很骚，乐于分享。详细请戳☞：[关于作者](https://mp.weixin.qq.com/s/9xRg6Oe2FwQpQB-ettlsaQ)<br>
->2. **本站PDF**：完整PDF还在制作中，大家可以先下载 SpringBoot部分☞：[10万字SpringBoot经典笔记](https://mp.weixin.qq.com/s/vpPsZrjJ3fO7s12um4wXew)<br>
+>2. **本站PDF**：v1.0 版本正在制作中，大家可以先下载 SpringBoot部分☞：[10万字SpringBoot经典笔记](https://mp.weixin.qq.com/s/vpPsZrjJ3fO7s12um4wXew)<br>
 >3. **联系作者**：如要进群或者单纯的想跟我一起吹吹牛逼，看看我朋友圈都发一些什么骚东西，请点开上面“关于作者”，滑至底部骚扰我（请备注：来自github）
 >4. **转载须知**：以下所有文章如非文首说明皆为我（武哥）的原创，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！⛽️
 
@@ -15,7 +15,6 @@
 <div align=center style="margin: 2px 0"><img src="https://img.shields.io/badge/version-v1.0-green.svg"/>  <img src="https://img.shields.io/badge/公众号-武哥聊编程-important.svg"/>  <img src="https://img.shields.io/badge/电子书-Java开发宝典-oranged.svg"/>  <img src="https://img.shields.io/badge/support-投稿-critical.svg"/></div>
 <br>
 <div align=center style="margin: 2px 0"><a href="https://blog.csdn.net/eson_15"><img src="https://img.shields.io/badge/关注-CSDN-blue.svg"/></a>   <a href="https://www.zhihu.com/people/ni-sheng-wu-59"><img src="https://img.shields.io/badge/关注-知乎-important.svg"/></a>   <a href="https://space.bilibili.com/696943969"><img src="https://img.shields.io/badge/关注-B站-oranged.svg"/></a></div>
-
 
 ##  <a name="javaBase">☕ Java 基础</a>
 
