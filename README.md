@@ -1,8 +1,8 @@
 如果你来到这里，说明我们有缘份，这里是你们的“**Java开发宝典**”，我会将 Java 技术栈涉及到的知识点都给大家总结出来，进来的小伙伴点个 star，我会不断地完善，力求做到完美。
 
 <div align=center style="margin: 2px 0"><img alt="Java开发宝典" src="https://img-blog.csdnimg.cn/20201025232846465.png"/></div>
-<div align=center><img src="https://img.shields.io/badge/version-v1.0-green.svg"/> <img src="https://img.shields.io/badge/公众号-武哥聊编程-important.svg"/> <img src="https://img.shields.io/badge/电子书-Java开发宝典-oranged.svg"/> <img src="https://img.shields.io/badge/support-投稿-critical.svg"/></div>
-<div align=center><a href="https://blog.csdn.net/eson_15" target="_black"><img src="https://img.shields.io/badge/关注-CSDN-blue.svg"/></a> <img src="https://img.shields.io/badge/关注-知乎-important.svg"/> <img src="https://img.shields.io/badge/关注-B站-oranged.svg"/></div>
+<div align=center style="margin: 2px 0"><img src="https://img.shields.io/badge/version-v1.0-green.svg"/> <img src="https://img.shields.io/badge/公众号-武哥聊编程-important.svg"/> <img src="https://img.shields.io/badge/电子书-Java开发宝典-oranged.svg"/> <img src="https://img.shields.io/badge/support-投稿-critical.svg"/></div>
+<div align=center style="margin: 2px 0"><a href="https://blog.csdn.net/eson_15"><img src="https://img.shields.io/badge/关注-CSDN-blue.svg"/></a>  <a href="https://www.zhihu.com/people/ni-sheng-wu-59"><img src="https://img.shields.io/badge/关注-知乎-important.svg"/></a>  <a href="https://space.bilibili.com/696943969"><img src="https://img.shields.io/badge/关注-B站-oranged.svg"/></a></div>
 
 ##  ☕ Java 基础
 
