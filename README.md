@@ -1,10 +1,10 @@
-如果你来到这里，说明我们有缘份，这里是你们的“**Java开发宝典**”，包括内容有：Java 基础、Java 容器、Java 多线程、Java 虚拟机、Spring、SpringMVC、MyBatis、Spring Boot、Spring Cloud、 Spring Security、Dubbo、MySQL、Oracle、Redis、消息队列、数据结构和算法、常用工具等等。我会将 Java 技术栈涉及到的知识点都给大家总结出来，不断地完善本仓库，力求做到完美。
+如果你来到这里，说明我们有缘份，这里是你们的“**Java开发宝典**”，包括内容有：Java 基础、Java 容器、Java 多线程、Java 虚拟机、Spring、SpringMVC、MyBatis、Spring Boot、Spring Cloud、 Spring Security、Dubbo、MySQL、Oracle、Redis、WebService、Lucence、Shiro、消息队列、数据结构和算法、设计模式、常用工具等等。我会将 Java 技术栈涉及到的知识点都给大家总结出来，不断地完善本仓库，力求做到完美。
 
 拥抱开源，送人玫瑰，手留余香！进来的小伙伴**点个 star**支持下我，是对我最大的鼓励！
 
 ## 阅读须知
->1. **作者介绍**：江湖人称“武哥”，技术不咋地，人很骚，详细介绍请☞：[关于作者](https://mp.weixin.qq.com/s/9xRg6Oe2FwQpQB-ettlsaQ)<br>
->2. **本站PDF**：还在制作中，大家可以先下载Springboot部分☞：[10万字Springboot经典笔记](https://mp.weixin.qq.com/s/vpPsZrjJ3fO7s12um4wXew)<br>
+>1. **作者介绍**：江湖人称“武哥”，技术不咋地，人很骚，乐于分享。详细请戳☞：[关于作者](https://mp.weixin.qq.com/s/9xRg6Oe2FwQpQB-ettlsaQ)<br>
+>2. **本站PDF**：完整PDF还在制作中，大家可以先下载 SpringBoot部分☞：[10万字SpringBoot经典笔记](https://mp.weixin.qq.com/s/vpPsZrjJ3fO7s12um4wXew)<br>
 >3. **联系作者**：如要进群或者单纯的想跟我一起吹吹牛逼，看看我朋友圈都发一些什么骚东西，请点开上面“关于作者”，滑至底部骚扰我（请备注：来自github）
 >4. **转载须知**：以下所有文章如非文首说明皆为我（武哥）的原创，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！⛽️
 
@@ -70,8 +70,6 @@
 * 阻塞队列的使用
 * 
 
-
-
 ## 🥇 Java 虚拟机
 * [01. Java 内存区域与内存溢出异常](https://github.com/eson15/javaAll/blob/master/JVM/01.%20Java%20%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F%E4%B8%8E%E5%86%85%E5%AD%98%E6%BA%A2%E5%87%BA%E5%BC%82%E5%B8%B8.md)
 * [02. Java 虚拟机的类加载机制](https://github.com/eson15/javaAll/blob/master/JVM/02.%20Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9A%84%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6.md)
@@ -80,6 +78,26 @@
 * [01. Spring 概述](https://github.com/eson15/javaAll/blob/master/Spring/01.%20Spring%20%E6%A6%82%E8%BF%B0.md)
 * [02. Spring 依赖注入与装配Bean](https://github.com/eson15/javaAll/blob/master/Spring/02.%20Spring%20%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E4%B8%8E%E8%A3%85%E9%85%8DBean.md)
 * [03. Spring Bean的作用域和生命周期](https://github.com/eson15/javaAll/blob/master/Spring/03.%20Spring%20Bean%E7%9A%84%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md) 
+* Spring AOP 详解
+* Spring 和数据库编程
+* Spring 数据库事务管理详解
+* Spring 的类加载机制
+
+
+
+## 🎦SpringMVC
+
+* 宏观上把握 SpringMVC 框架
+* 走进 SpringMVC 的世界
+* SpringMVC中 注解和非注解方式下的映射器和适配器总结
+* Spring、MyBatis 和 SpringMVC 的整合（ssm）
+* SpringMVC 中的参数绑定总结
+* SpringMVC 中的统一异常处理
+* SpringMVC 中实现文件上传
+* SpringMVC 与前台的 json 数据交互
+* SpringMVC 对 RESTfull 的支持
+* SpringMVC 中的拦截器
+
 
 ## 🔒 Spring Security
 * [01. Spring Security 的前世今生](https://github.com/eson15/javaAll/blob/master/SpringSecurity/01.%20%E6%A6%82%E8%BF%B0%EF%BC%9ASpringSecurity%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F.md)
@@ -87,6 +105,8 @@
 * [03. Spring Security 表单登录源码解析](https://github.com/eson15/javaAll/blob/master/SpringSecurity/03.%20Spring%20Security%20%E8%A1%A8%E5%8D%95%E7%99%BB%E5%BD%95%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
 * [04. Spring Security 的验证码生成详解](https://github.com/eson15/javaAll/blob/master/SpringSecurity/04.%20Spring%20Security%20%E7%9A%84%E9%AA%8C%E8%AF%81%E7%A0%81%E7%94%9F%E6%88%90%E8%AF%A6%E8%A7%A3.md)
 * Spring Security 验证码登录流程讲解
+* Spring Security 在前后端分离下的JSON交互方案
+* 扩展篇：Spring Security 过滤器链之 SecurityContext
 
 ## 🧶 Spring Boot
 
@@ -112,37 +132,52 @@
 
 ## 🚀 Spring Cloud
 
-* Dubbo沉睡5年，Spring Cloud开始崛起！
-* Spring Cloud中基于maven的多模块项目框架的搭建
-
-* Spring Cloud中的Eureka服务注册与发现详解
-
-* Spring Cloud中如何完善Eureka中的服务信息
-
-* Spring Cloud中使用Eureka集群搭建高可用服务注册中心
-
-* Spring Cloud中的Eureka和Zookeeper的区别在哪？
-
-* Spring Cloud中使用Ribbon实现负载均衡详解（上）
-
-* Spring Cloud中使用Ribbon实现负载均衡详解（下）
-
-* Spring Cloud中自定义Ribbon负载均衡策略
-
-* Spring Cloud中使用Feign实现负载均衡详
-
-* Spring Cloud中使用Hystrix实现断路器原理详解（上）
-
-* Spring Cloud中使用Hystrix实现断路器原理详解（下）
-
-* Spring Cloud中使用Zuul实现路由网关详解
-
-* Spring Cloud分布式配置中心详解
+* [01. Dubbo沉睡5年，Spring Cloud开始崛起！](https://blog.csdn.net/eson_15/article/details/83651732)
+* [02. Spring Cloud中基于maven的多模块项目框架的搭建](https://blog.csdn.net/eson_15/article/details/83585344)
+* [03. Spring Cloud中的Eureka服务注册与发现详解](https://blog.csdn.net/eson_15/article/details/85002026)
+* [04. Spring Cloud中如何完善Eureka中的服务信息](https://blog.csdn.net/eson_15/article/details/85226439)
+* [05. Spring Cloud中使用Eureka集群搭建高可用服务注册中心](https://blog.csdn.net/eson_15/article/details/85252697)
+* [06. Spring Cloud中的Eureka和Zookeeper的区别在哪？](https://blog.csdn.net/eson_15/article/details/85561179)
+* [07. Spring Cloud中使用Ribbon实现负载均衡详解（上）](https://blog.csdn.net/eson_15/article/details/86182477)
+* [08. Spring Cloud中使用Ribbon实现负载均衡详解（下）](https://blog.csdn.net/eson_15/article/details/86225272)
+* [09. Spring Cloud中自定义Ribbon负载均衡策略](https://blog.csdn.net/eson_15/article/details/86578207)
+* [10. Spring Cloud中使用Feign实现负载均衡详](https://blog.csdn.net/eson_15/article/details/86590402)
+* [11. Spring Cloud中使用Hystrix实现断路器原理详解（上）](https://blog.csdn.net/eson_15/article/details/86628622)
+* [12. Spring Cloud中使用Hystrix实现断路器原理详解（下）](https://blog.csdn.net/eson_15/article/details/86673843)
+* [13. Spring Cloud中使用Zuul实现路由网关详解](https://blog.csdn.net/eson_15/article/details/86689681)
+* [14. Spring Cloud分布式配置中心详解](https://blog.csdn.net/eson_15/article/details/86715157)
+* 
 
 ## 🌏 Dubbo
 
+* 【夯实Dubbo】什么是 RPC 框架？
+* 【夯实Dubbo】Dubbo 的核心特性
+* 【夯实Dubbo】Dubbo 架构和 zookeeper 注册中心的搭建和配置
+* 【夯实Dubbo】Dubbo 和 Spring Boot 整合完成服务注册
+* 【夯实Dubbo】Dubbo 的配置总结
+* 【夯实Dubbo】Dubbo 的负载均衡设置
+* 【夯实Dubbo】Dubbo 的服务熔断和降级处理
+* 【夯实Dubbo】Dubbo 的核心原理
+* 
+
 ## 🍳 MyBatis
 
+* 宏观上把握 MyBatis 框架
+* 走进 MyBatis 的世界
+* MyBatis 的原始 dao 开发方法及其弊端
+* MyBatis 的 mapper 代理方法开发 dao
+* MyBatis 的 SqlMapConfig.xml 文件中的配置总结
+* MyBatis 的输入映射和输出映射
+* MyBatis 的动态 sql
+* MyBatis 高级映射之一对一查询
+* MyBatis 高级映射之一对多查询
+* MyBatis 高级映射之多对多查询
+* MyBatis 中的延迟加载
+* MyBatis 中的一级缓存
+* MyBatis 中的二级缓存
+* MyBatis 的逆向工程生成代码
+* MyBatis 分页插件 PageHelper 的使用
+* 
 ## 📯 Mysql
 
 ## ⌛ Oracle
@@ -154,5 +189,7 @@
 ## 🌈 数据结构与算法
 
 ## 🔧 常用工具
+
+## 😁 程序人生
 
 
