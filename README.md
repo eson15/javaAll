@@ -1,4 +1,10 @@
-如果你来到这里，说明我们有缘份，这里是你们的“**Java开发宝典**”，我会将 Java 技术栈涉及到的知识点都给大家总结出来，进来的小伙伴点个 star，我会不断地完善，力求做到完美。
+如果你来到这里，说明我们有缘份，这里是你们的“**Java开发宝典**”，我会将 Java 技术栈涉及到的知识点都给大家总结出来，进来的小伙伴点个 star，我会不断地完善，力求做到完美。拥抱开源，送人玫瑰，手留余香~
+
+## 一些闲话
+>1. **作者介绍**：作者，江湖人称“武哥”，技术不咋地，人很骚，详细介绍请☞：[关于作者](https://mp.weixin.qq.com/s/41w6p2-od-BNVovndKgucg)<br>
+>2. **本站PDF**：还在制作中，大家可以先下载Springboot部分☞：[10万字Springboot经典笔记](https://mp.weixin.qq.com/s/vpPsZrjJ3fO7s12um4wXew)<br>
+>3. **联系作者**：如要进群或者单纯的想跟我一起吹吹牛逼，欢迎骚扰☞：[联系我](#contMe)
+>4. **转载须知**：以下所有文章如非文首说明皆为我（武哥）的原创，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！⛽️
 
 <div align=center style="margin: 2px 0"><img alt="Java开发宝典" src="https://img-blog.csdnimg.cn/20201025232846465.png"/></div>
 <div align=center style="margin: 2px 0"><img src="https://img.shields.io/badge/version-v1.0-green.svg"/> <img src="https://img.shields.io/badge/公众号-武哥聊编程-important.svg"/> <img src="https://img.shields.io/badge/电子书-Java开发宝典-oranged.svg"/> <img src="https://img.shields.io/badge/support-投稿-critical.svg"/></div>
@@ -102,16 +108,5 @@
 
 ## 🔧 常用工具
 
-
-
-
-
-
-
-
-
-
-
-
-
+<a name="contMe">## 联系我</a>
 
