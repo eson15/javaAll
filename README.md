@@ -3,7 +3,6 @@
 <div align=center style="margin: 2px 0"><img alt="Java开发宝典" src="https://img-blog.csdnimg.cn/20201025232846465.png"/></div>
 <div align=center><img src="https://img.shields.io/badge/version-v1.0-green.svg"/> <img src="https://img.shields.io/badge/公众号-武哥聊编程-important.svg"/> <img src="https://img.shields.io/badge/电子书-Java开发宝典-oranged.svg"/> <img src="https://img.shields.io/badge/support-投稿-critical.svg"/></div>
 
-
 ##  ☕ Java 基础
 
 * [01. Java 数据类型](https://github.com/eson15/javaAll/blob/master/JavaBase/01.%20Java%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
@@ -41,6 +40,8 @@
 * [01. Java 创建线程的方式](https://github.com/eson15/javaAll/blob/master/JavaThread/01.%20Java%20%E5%88%9B%E5%BB%BA%E7%BA%BF%E7%A8%8B%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B9%E5%BC%8F.md)
 
 * [02. Java 线程状态有哪些状态，彼此之间如何切换](https://github.com/eson15/javaAll/blob/master/JavaThread/02.%20%E7%BA%BF%E7%A8%8B%E6%9C%89%E5%93%AA%E4%BA%9B%E7%8A%B6%E6%80%81%EF%BC%8C%E5%BD%BC%E6%AD%A4%E4%B9%8B%E9%97%B4%E5%A6%82%E4%BD%95%E5%88%87%E6%8D%A2.md)
+* [03. 传统线程互斥技术 synchronized](https://github.com/eson15/javaAll/blob/master/JavaThread/03.%20%E4%BC%A0%E7%BB%9F%E7%BA%BF%E7%A8%8B%E4%BA%92%E6%96%A5%E6%8A%80%E6%9C%AF%20synchronized.md)
+* 
 
 
 
