@@ -32,6 +32,27 @@
 * Java 8 特性
 * Java 容器
 
+## 🌈 数据结构与算法
+
+* [01.  如果让你手写个栈和队列，你还会写吗？](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484011&idx=1&sn=32c75861c04125b0ce1385976cfc5967&chksm=9ac0bc49adb7355fd6d85669625cccfc4d929ae8d4cc6515ea2e0e33f102bbd6b26730376b47&scene=21#wechat_redirect)
+* [02.  你能自己手写个健壮的链表出来吗？](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484035&idx=1&sn=3f25a817c1ba1467080ca52bdccf04d5&chksm=9ac0bca1adb735b71303b9d61fe534f1858bfddb903a45090d1ecf3ef7ce39954e08678f0fc8&scene=21#wechat_redirect)
+* [03.  面试再被问到二叉树，希望你对答如流！](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484036&idx=1&sn=8405d2f3ec103ff38181026509d76ff9&chksm=9ac0bca6adb735b0bea3b55c8e519efb7180e67ce24cf7e4767de12a538de74708a3cab47f19&scene=21#wechat_redirect)
+* [04.  还在被红黑树虐？看完轻松搞定面试官](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247483918&idx=1&sn=659b967b578e0b1831b3f8fb5251ca3c&chksm=9ac0bc2cadb7353a78aaac707d123737124e91b0c08165ac9fc84934cfc7cb5e1bf2ec0888ee&scene=21#wechat_redirect)
+* [05.  2-3-4树如何解决二叉树的非平衡问题？](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484041&idx=1&sn=bd74835b7a9ca5ece7014410e6290557&chksm=9ac0bcabadb735bd6cc1f62c1140fb6bec6921e5ed058f32caaae36e5171b18f718d873bdfc0&scene=21#wechat_redirect)
+* [06.  读完这篇，希望你能真正理解哈希表。](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484042&idx=1&sn=78f0c441a3d780dbc2d3e1e0c7543804&chksm=9ac0bca8adb735bec038d0af7be1da55560cb41a023c13007fb034ac169fbdd6c53506250884&scene=21#wechat_redirect)
+* [07.  堆其实是个很简单的数据结构](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484056&idx=1&sn=bf2333f63eb1d4b362cc3e48dcb237c8&chksm=9ac0bcbaadb735acfbfeeaacfc3582a687c2345ad5e368cf0d4e09a591672047a11d3d6754d9&scene=21#wechat_redirect)
+* [08.  这个图绝对跟你想象中的不太一样！](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484051&idx=1&sn=a2ebd30420cbd9dbf0294e06497fcd48&chksm=9ac0bcb1adb735a71c166697d0a6f4966e1e19335e74519fdc3401ac44887d5fdcea61a704e3&scene=21#wechat_redirect)
+* [09.  图也有权重，你们知道吗？](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484057&idx=1&sn=c55b71c31119a4ee8ee7833431006fe1&chksm=9ac0bcbbadb735ad07baf8f80956f176864debd582cc3b9a97784da9840c0d51e5a0ccfa6970&scene=21#wechat_redirect)
+* [10.  还记得这几个经典的基础排序算法吗？](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247483940&idx=1&sn=68c4d84eaac2f7b54420427af52a8beb&chksm=9ac0bc06adb73510ba11c2721bb3a23c62b7ffb37664b7a8dbff11de3ed584058885b7da464f&scene=21#wechat_redirect)
+* [11.  手把手教你学会希尔排序，很简单！](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484066&idx=1&sn=b671f5cf1218234709f4d02422522751&chksm=9ac0bc80adb73596581bace9f4da1d95c7c3e21c492ea038d3055db67e86f783972edd36a0bb&scene=21#wechat_redirect)
+* [12.  快速排序算法到底有多快？](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484071&idx=1&sn=2e620168defe792a6330de6fd0260049&chksm=9ac0bc85adb73593337c2eedc865a526793efa10f8c5cead82ba61c25f81d5285d042d80953a&scene=21#wechat_redirect)
+* [13.  五分钟教你学会归并排序。](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484073&idx=1&sn=56c6951c8642af0c10b40784cf5edcf2&chksm=9ac0bc8badb7359d4c4f1a45eeeffb74c4f2b0aae36e9eb57dd6a7c3ac4f566f9ad656868e0a&scene=21#wechat_redirect)
+* [14.  简单说下二叉树排序。](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484074&idx=1&sn=9d243ce5c844c1db0892fb5ade8b862b&chksm=9ac0bc88adb7359ee918db2a53d2334b8550bb084f52cc7fbfc44570635fdbd73770d8cff58b&scene=21#wechat_redirect)
+* [15. 学会堆排序只需要几分钟。](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484110&idx=1&sn=7f8c523c7b2f8ec7f96c95f8967449d0&chksm=9ac0bcecadb735fa7f931e47be175fca11598102b03ce8ccfbb0d0a2b7db199e5566aa0956ec&scene=21#wechat_redirect)
+* [16.  图，这个玩意儿竟然还可以用来排序！](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484121&idx=1&sn=a9b24f56dcd6eb68ca6de3887d5e6cb9&chksm=9ac0bcfbadb735ed031b6c30dbd6bfc52811a0995bad4eb9f4127782d97c2b80983898381c4a&scene=21#wechat_redirect)
+* [17. 最常用的经典数据结构和算法汇总](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484132&idx=1&sn=8d2d97c04cf4bcc261da00db50d02978&chksm=9ac0bcc6adb735d01c3f7abc0b2df2a1ce97784a99b28c9a4f7db82121c03893542d111286d2&scene=21#wechat_redirect)
+* [18. 美团面试，我竟然输给了冒泡排序。。。](https://mp.weixin.qq.com/s?__biz=MzAwMjk5Mjk3Mw==&mid=2247484405&idx=1&sn=cb1746c407d8db9ec3c7ee32c6fbbf09&chksm=9ac0bdd7adb734c1d58d03ad2099e4732488f69be635eb7651f5c87c0054b6589b85f713f0f3&scene=21#wechat_redirect)
+
 ## 📚 Java 容器
 * Vector
 
@@ -188,8 +209,6 @@
 ## 🍰 Redis
 
 ## 🚦 消息队列
-
-## 🌈 数据结构与算法
 
 ## 🔧 常用工具
 
