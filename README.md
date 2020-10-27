@@ -1,11 +1,15 @@
-如果你来到这里，说明离成功不远了，这里是我的“**Java开发宝典**”，包括内容有：[Java 基础](#javaBase)、[数据结构和算法](#shuju)、[Java 容器](#javaCon)、[Java 多线程](#javaThread)、[Java 虚拟机](#jvm)、[Spring](#spring)、[SpringMVC](#springmvc)、[MyBatis](#mybatis)、[Spring Boot](#boot)、[Spring Cloud](#cloud)、[Spring Security](#security)、[Dubbo](#dubbo)、[MySQL](#mysql)、[Oracle](#oracle)、[Redis](#redis)、[WebService](#webservice)、[Lucence](#lucence)、[Shiro](#shiro)、[消息队列](#message)、[设计模式](#design)、[常用工具](#tools)等等。我会将 Java 技术栈涉及到的知识点都给大家总结出来，不断地完善本仓库，力求做到完美。**从今天开始，它也会成为大家的 “Java开发宝典”！**
+如果你来到这里，说明离成功不远了，这里是我的“**Java开发宝典**”。
+
+包括内容有：[Java 基础](#javaBase)、[数据结构和算法](#shuju)、[Java 容器](#javaCon)、[Java 多线程](#javaThread)、[Java 虚拟机](#jvm)、[Spring](#spring)、[SpringMVC](#springmvc)、[MyBatis](#mybatis)、[Spring Boot](#boot)、[Spring Cloud](#cloud)、[Spring Security](#security)、[Dubbo](#dubbo)、[MySQL](#mysql)、[Oracle](#oracle)、[Redis](#redis)、[WebService](#webservice)、[Lucence](#lucence)、[Shiro](#shiro)、[消息队列](#message)、[设计模式](#design)、[常用工具](#tools)等等。
+
+我会将 Java 技术栈涉及到的知识点都给大家总结出来，不断地完善本仓库，力求做到完美。**从今天开始，它也会成为大家的 “Java开发宝典”！**
 
 拥抱开源，送人玫瑰，手留余香！进来的小伙伴⭐**点个 star**⭐支持下我，是对我最大的鼓励！
 
 ## 阅读须知
 >1. **作者介绍**：江湖人称“武哥”，除了人很骚、乐于分享之外，好像也没有其他优点了。详细请戳☞：[关于作者](https://mp.weixin.qq.com/s/9xRg6Oe2FwQpQB-ettlsaQ)<br>
 >2. **本站PDF**：本站配套的v1.0 版本的pdf正在努力制作中💪，大家可以先下载 SpringBoot部分，感受一下作者的用心☞：[10万字SpringBoot经典笔记](https://mp.weixin.qq.com/s/vpPsZrjJ3fO7s12um4wXew)<br>
->3. **联系作者**：如要进群或者单纯的想跟我一起吹吹牛逼，看看我朋友圈都发一些什么骚东西😎，请点开上面“关于作者”，滑至底部骚扰我（请备注：来自github）
+>3. **联系作者**：如要进群或者单纯的想加个好友一起吹吹牛逼，看看我朋友圈都发一些什么骚东西的话😎，请点开上面“关于作者”，滑至底部骚扰我（请备注：来自github）
 >4. **转载须知**：以下所有文章如非文首说明皆为我（武哥）的原创，或者粉丝的投稿，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！🤞
 
 
