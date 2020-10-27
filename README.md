@@ -2,7 +2,7 @@
 
 包括内容有：[Java 基础](#javaBase)、[数据结构和算法](#shuju)、[Java 容器](#javaCon)、[Java 多线程](#javaThread)、[Java 虚拟机](#jvm)、[Spring](#spring)、[SpringMVC](#springmvc)、[MyBatis](#mybatis)、[Spring Boot](#boot)、[Spring Cloud](#cloud)、[Spring Security](#security)、[Dubbo](#dubbo)、[MySQL](#mysql)、[Oracle](#oracle)、[Redis](#redis)、[WebService](#webservice)、[Lucence](#lucence)、[Shiro](#shiro)、[消息队列](#message)、[设计模式](#design)、[常用工具](#tools)等等。
 
-我会将 Java 技术栈涉及到的知识点都给大家总结出来，不断地完善本仓库，力求做到完美。**从今天开始，它也会成为大家的 “Java开发宝典”！**
+我会将 Java 技术栈涉及到的知识点都给大家总结出来，不断地完善本仓库，力求做到完美。**从今天开始，它也会成为你的 “Java开发宝典”！**
 
 拥抱开源，送人玫瑰，手留余香！进来的小伙伴⭐**点个 star**⭐支持下我，是对我最大的鼓励！
 
