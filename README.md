@@ -10,7 +10,8 @@
 >1. **作者介绍**：江湖人称“武哥”，除了人很骚、乐于分享之外，好像也没有其他优点了。详细请戳☞：[关于作者](https://mp.weixin.qq.com/s/9xRg6Oe2FwQpQB-ettlsaQ)<br>
 >2. **本站PDF**：本站配套的v1.0 版本的pdf正在努力制作中💪，大家可以先下载 SpringBoot部分，感受一下作者的用心☞：[10万字SpringBoot经典笔记](https://mp.weixin.qq.com/s/vpPsZrjJ3fO7s12um4wXew)<br>
 >3. **联系作者**：如要进群或者单纯的想加个好友一起吹吹牛逼，看看我朋友圈都发一些什么骚东西的话😎，请点开上面“关于作者”，滑至底部骚扰我（请备注：来自github）
->4. **转载须知**：以下所有文章如非文首说明皆为我（武哥）的原创，或者粉丝的投稿，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！🤞
+>4. **我的公众号**：我的所有文章（包括原创电子书）都可以白嫖，各位麻烦关注一下☞[我的公众号](#gongzhonghao)，感谢！
+>5. **转载须知**：以下所有文章如非文首说明皆为我（武哥）的原创，或者粉丝的投稿，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！🤞
 
 
 <br>
@@ -19,7 +20,6 @@
 <div align=center style="margin: 2px 0"><img src="https://img.shields.io/badge/version-v1.0-green.svg"/>  <img src="https://img.shields.io/badge/公众号-武哥聊编程-important.svg"/>  <img src="https://img.shields.io/badge/电子书-Java开发宝典-oranged.svg"/>  <img src="https://img.shields.io/badge/support-投稿-critical.svg"/></div>
 <br>
 <div align=center style="margin: 2px 0"><a href="https://blog.csdn.net/eson_15"><img src="https://img.shields.io/badge/关注-CSDN-blue.svg"/></a>   <a href="https://www.zhihu.com/people/ni-sheng-wu-59"><img src="https://img.shields.io/badge/关注-知乎-important.svg"/></a>   <a href="https://space.bilibili.com/696943969"><img src="https://img.shields.io/badge/关注-B站-oranged.svg"/></a></div>
-
 ##  <a name="javaBase">☕ Java 基础</a>
 
 * [01. Java 数据类型](https://github.com/eson15/javaAll/blob/master/JavaBase/01.%20Java%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
@@ -59,6 +59,8 @@
 * 
 
 ## <a name="javaCon">📚 Java 容器</a>
+
+注：这块之前我写过源码分析，不过是基于 jdk1.7 的，所以这块我需要更新一下，各位老铁等我搞好！
 * Vector
 
 * ArrayList
@@ -226,5 +228,13 @@
 ## <a name="tools">🔧 常用工具</a>
 
 ## <a name="life">😁 程序人生</a>
+
+## <a name="gongzhonghao">📚 我的公众号 </a>
+
+> 我所有的文章都可以白嫖，老铁们顺便关注一下我的三个公众号<br>
+> **武哥聊编程**、**Java开发宝典**、**Java秃头哥**<br>
+> 您的支持，是我走下去的持续动力！感谢每一位朋友！
+
+![武哥聊编程](https://img-blog.csdnimg.cn/202002150421550.jpg)![Java开发宝典](https://img-blog.csdnimg.cn/20200608005630228.png)![Java秃头哥](https://img-blog.csdnimg.cn/20201025170941235.png)
 
 
