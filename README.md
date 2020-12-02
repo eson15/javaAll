@@ -109,7 +109,7 @@
 * [04. Spring AOP：这可能是东半球最详细的一篇文章](https://github.com/eson15/javaAll/blob/master/Spring/04.%20Spring%20AOP%EF%BC%9A%E8%BF%99%E5%8F%AF%E8%83%BD%E6%98%AF%E4%B8%9C%E5%8D%8A%E7%90%83%E6%9C%80%E8%AF%A6%E7%BB%86%E7%9A%84%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0.md)
 * [05. Spring 和数据库编程](https://github.com/eson15/javaAll/blob/master/Spring/05.%20Spring%20%E5%92%8C%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B.md)
 * [06. Spring 数据库编程在实际开发中的应用](https://github.com/eson15/javaAll/blob/master/Spring/06.%20Spring%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B%E5%9C%A8%E5%AE%9E%E9%99%85%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)
-* 深入Spring数据库事务管理
+* [07. 深入Spring数据库事务管理](https://github.com/eson15/javaAll/blob/master/Spring/07.%20%E6%B7%B1%E5%85%A5Spring%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86.md)
 * Spring 的类加载机制
 
 
