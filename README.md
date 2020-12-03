@@ -231,6 +231,13 @@
 
 ## <a name="message">🚦 消息队列</a>
 
+* [01. 快速了解 RabbitMQ .md](https://github.com/eson15/javaAll/blob/master/mq/01.%20%E5%BF%AB%E9%80%9F%E4%BA%86%E8%A7%A3%20RabbitMQ%20.md)
+* [02. RabbitMQ 模型详解.md](https://github.com/eson15/javaAll/blob/master/mq/02.%20RabbitMQ%20%E6%A8%A1%E5%9E%8B%E8%AF%A6%E8%A7%A3.md)
+* [03. RabbitMQ 在项目中配置.md](https://github.com/eson15/javaAll/blob/master/mq/03.%20RabbitMQ%20%E5%9C%A8%E9%A1%B9%E7%9B%AE%E4%B8%AD%E9%85%8D%E7%BD%AE.md)
+* [04. RabbitMQ 高级用法.md](https://github.com/eson15/javaAll/blob/master/mq/04.%20RabbitMQ%20%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95.md)
+* [05. 一起来了解下 SpringAmqp.md](https://github.com/eson15/javaAll/blob/master/mq/05.%20%E4%B8%80%E8%B5%B7%E6%9D%A5%E4%BA%86%E8%A7%A3%E4%B8%8B%20SpringAmqp.md)
+* [06. RabbitMQ 可靠性投递.md](https://github.com/eson15/javaAll/blob/master/mq/06.%20RabbitMQ%20%E5%8F%AF%E9%9D%A0%E6%80%A7%E6%8A%95%E9%80%92.md)
+
 ## <a name="design">🚦 设计模式</a>
 
 ## <a name="tools">🔧 常用工具</a>
